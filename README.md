@@ -1,4 +1,8 @@
 # rcosFall25Class1
-Class demo
+Isaiah Mathew
 
-This is another line.
+![image](photo.jpg)
+
+2000
+
+CS project
